@@ -5,7 +5,7 @@ const callApi = async (url, options = {}) => {
     Accept: "application/json",
     Authorization: `Bearer ${token}`
   };
-  const response = await fetch("http://localhost:3002/api" + url, options);
+  const response = await fetch("https://proyectomisiontic3-1.herokuapp.com/api" + url, options);
   const data = await response.json();
   return data;
 };
