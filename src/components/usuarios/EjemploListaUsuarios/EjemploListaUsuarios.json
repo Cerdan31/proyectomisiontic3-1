@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "nombre": "Andres Rodriguez",
+        "clave": "123",
+        "usuario": "andres@gmail.com",
+        "rol": "Administrador",
+        "estado": "Autorizado"
+    },
+    {
+        "id": 2,
+        "nombre": "Sebastian Mendez",
+        "clave": "456",
+        "usuario": "sebastian@gmail.com",
+        "rol": "Vendedor",
+        "estado": "No Autorizado"
+    }
+]

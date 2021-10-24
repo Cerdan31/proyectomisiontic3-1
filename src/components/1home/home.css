@@ -1,0 +1,35 @@
+.container{
+    width: 100%;
+    
+}
+
+.explorer.nav.nav-tabs.nav-justified{
+    width: 100%;
+    height: 60px;
+    background: rgb(65, 77, 236);
+    color: white;
+}
+
+.nav-fill .nav-item .nav-link, .nav-justified .nav-item .nav-link{
+    color: white;
+    height: 54px;
+}
+
+
+.title{
+    color: black;
+    text-align: center;
+    margin: 30px;
+}
+
+.nav-tabs .nav-link{
+    margin-top: 6px;
+}
+
+.card{
+    margin: 50px;
+}
+
+.logout{
+    float: right;
+}

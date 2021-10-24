@@ -1,0 +1,16 @@
+El presente proyecto trata sobre una aplicación web que permita controlar las ventas físicas y virtuales de una empresa de manufactura para poder realizar el correspondiente seguimiento. Por otro lado, el stack tecnológico que se va a utilizar está relacionado con HTML5, CSS3, JavaScript, React JS, Node JS, OAuth2, entre otras.
+
+Además, se van a contar con los siguientes módulos:
+
+- Módulo de administrador de ventas.
+- Módulo de registro del estado de la venta.
+- Módulo de gestión de vendedores.
+- Módulo de gestión de ingreso al sistema de información.
+- Módulo de gestión de usuarios y roles.
+
+El desarrollo del proyecto se va a realizar mediante un grupo de 5 personas que conforman el equipo de trabajo:
+1) Nombre: Jorge Andrés Mojica Villamizar - Correo: jorgemojica32@gmail.com
+2) Nombre: Andrés David Ariza Caceres - Correo: adac0212982@gmail.com
+3) Nombre: Yeisson Estiven Ortiz Torres - Correo: ortizyeison2183@gmail.com
+4) Nombre: Duvan Albeiro Mendivelso Caicedo - Correo: duvamendi2@hotmail.com
+5) Nombre: José Andrés Moreno Camargo - Correo: jamoreno33@misena.edu.co

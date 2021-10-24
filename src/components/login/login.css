@@ -1,0 +1,93 @@
+.formLogin{
+  margin: auto;
+  margin-top: 120px;
+  height: 540px;
+  width: 600px;
+  background: rgb(255, 255, 255);
+}
+
+.title{
+  text-align: center;
+}
+
+label[for="userName"]{
+  margin-top: 40px;
+}
+
+.userDiv{
+  margin: 20px
+}
+
+.passwordDiv{
+  margin: 20px;
+}
+
+input[type= email], input[type= password]{
+  width: 540px;
+  padding: 8px 15px;
+  border-radius: 8px;
+  text-align: center;
+  box-shadow: 2px 4px rgb(182, 182, 182);
+  box-sizing: border-box;
+  
+}
+
+.button{
+  height: 40px;
+  width: 160px;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  background: rgb(65, 77, 236);
+  color: white;
+
+}
+
+.buttonDiv{
+  text-align: center;
+}
+
+button[type=submit]{
+  margin-top: -30px;
+}
+
+.forgotPassword{
+  text-align: center;
+}
+
+.formRecover{
+  margin: auto;
+  margin-top: 120px;
+  background: rgb(255, 255, 255);
+  height: 700px;
+  width: 700px;
+}
+
+.titleRecover{
+  text-align: center;
+}
+
+.imageRecover{
+  margin-top: 20px;
+  height: 280px;
+  width: 269px;
+  margin-left: 23%;
+}
+
+label[for="textRecover"]{
+  margin: 80px;
+  margin-top: 50px;
+}
+
+.buttonRecover{
+  margin-top: -55px;
+  margin-left: 38%;
+}
+
+.footerLogin{
+  margin-top: 250px;
+}
+
+.text-center{
+  margin-top: 60px;
+}

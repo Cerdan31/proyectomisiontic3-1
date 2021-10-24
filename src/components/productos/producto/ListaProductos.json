@@ -1,0 +1,56 @@
+[
+   {
+      "id":"1",
+      "nombre":"Tennis Nike",
+      "stock":"35",
+      "precio":"500.000",
+      "url":"torta-de-chocolate",
+      "img":"tc.jpg",
+      "fecha":"2019-06-17 15:56:30"
+   },
+   {
+      "id":"2",
+      "nombre":"Bandas de Resistencia",
+      "stock":"45",
+      "precio":"35.000",
+      "url":"pie-de-manzana",
+      "img":"pm.jpg",
+      "fecha":"2018-08-11 16:25:33"
+   },
+   {
+      "id":"3",
+      "nombre":"Juego de pesas",
+      "stock":"100",
+      "precio":"100.000",
+      "url":"arroz-con-leche",
+      "img":"al.jpg",
+      "fecha":"2018-08-11 16:25:36"
+   },
+   {
+      "id":"4",
+      "nombre":"Maleta de gimnasio",
+      "stock":"70",
+      "precio":"250.000",
+      "url":"gelatina-de-fresa",
+      "img":"gf.jpg",
+      "fecha":"2018-08-11 16:25:39"
+   },
+   {
+      "id":"5",
+      "nombre":"Sudadera Adidas",
+      "stock":"60",
+      "precio":"230.000",
+      "url":"suspiro-a-la-limeña",
+      "img":"sl.jpg",
+      "fecha":"2019-06-17 15:58:43"
+   },
+   {
+      "id":"6",
+      "nombre":"Bola de Pilates",
+      "stock":"52",
+      "precio":"46.000",
+      "url":"mazamorra-morada",
+      "img":"mm.png",
+      "fecha":"2018-08-11 16:25:45"
+   }
+]
