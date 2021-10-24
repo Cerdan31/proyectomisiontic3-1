@@ -13,7 +13,6 @@ const login = () => {
   };
 
   const Success = (res) => {
-    
     localStorage.setItem("token", res.tokenId);
     api.user.getUser().then(res =>
       {
@@ -37,7 +36,7 @@ const login = () => {
         </div>
 
         <GoogleLogin
-          clientId="722454153046-8rh9pimhsv2s86t77fgaqnj4uoujc5kv.apps.googleusercontent.com"
+          clientId="352807164894-esm84cpo8fhgq8m123u9m159e66riu7n.apps.googleusercontent.com"
           render={renderProps => (
             <div className="buttonDiv">
             <button className="button" onClick={renderProps.onClick} disabled={renderProps.disabled}>Login</button>
