@@ -13,6 +13,8 @@ const login = () => {
   };
 
   const Success = (res) => {
+
+    /*
     localStorage.setItem("token", res.tokenId);
     api.user.getUser().then(res =>
       {
@@ -24,6 +26,9 @@ const login = () => {
         }
       }
     );
+
+    */
+    window.location.href='/home';
   }
     return(
       <Form method="POST" className="formLogin">
